@@ -10,8 +10,6 @@
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
-
 <p align="center">
 🟩 <b>Game Developer</b> &nbsp; • &nbsp;
 🏀 Creator of <b>HoopStats</b> &nbsp; • &nbsp;
@@ -21,21 +19,7 @@
 
 ---
 
-<!-- ===================== XP LEVEL ===================== -->
-
-<h3 align="center">⚔ Player Level</h3>
-
-<p align="center">
-  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜  
-  <br/>
-  Level 22 Developer
-</p>
-
----
-
-<!-- ===================== TECH STACK ===================== -->
-
-<h2 align="center">🧱 Tech Arsenal</h2>
+<!-- ===================== TECH ICONS ===================== -->
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,figma,python,firebase&theme=dark" />
@@ -43,31 +27,7 @@
 
 ---
 
-<!-- ===================== STATS ===================== -->
-
-<h2 align="center">📊 Player Stats</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samarsubhash&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=55FF55&icon_color=55FF55&text_color=ffffff"/>
-  
-  <img height="165" src="https://streak-stats.demolab.com?user=samarsubhash&theme=dark&hide_border=true&background=00000000&ring=55FF55&fire=55FF55&currStreakLabel=55FF55"/>
-</p>
-
----
-
-<!-- ===================== ACTIVITY GRAPH ===================== -->
-
-<h2 align="center">🗺 Build Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarsubhash&bg_color=0d1117&color=55ff55&line=55ff55&point=9aff00&area=true&hide_border=true"/>
-</p>
-
----
-
-<!-- ===================== SNAKE CONTRIBUTION ===================== -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
+<!-- ===================== SNAKE ===================== -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -75,9 +35,24 @@
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
+<!-- ===================== STATS ===================== -->
 
-<h2 align="center">🌍 Join My World</h2>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samarsubhash&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=55FF55&icon_color=55FF55&text_color=ffffff"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=samarsubhash&theme=dark&hide_border=true&background=00000000&ring=55FF55&fire=55FF55&currStreakLabel=55FF55"/>
+</p>
+
+---
+
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarsubhash&bg_color=0d1117&color=55ff55&line=55ff55&point=9aff00&area=true&hide_border=true"/>
+</p>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samar-subhash-01775924b/">
