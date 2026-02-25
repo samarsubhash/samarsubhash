@@ -1,11 +1,11 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== MINECRAFT HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Samar%20Subhash&fontAlign=50&fontAlignY=35&color=0:141E30,100:243B55&fontColor=00F7FF&animation=fadeIn&fontSize=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Samar%20Subhash&fontAlign=50&fontAlignY=35&color=0:134E13,100:2E7D32&fontColor=9AFF00&animation=fadeIn&fontSize=45" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=UI%2FUX+Designer;Mobile+App+Developer;Freelancer+on+Fiverr;Building+Clean+Modern+Apps+🚀;Always+Learning+New+Tech+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=9AFF00&center=true&vCenter=true&width=800&lines=Game+Developer+🧱;UI%2FUX+Designer;Mobile+App+Developer;Minecraft+Creator;Building+Cool+Digital+Worlds+🌍" />
 </p>
 
 ---
@@ -13,39 +13,39 @@
 <!-- ===================== ABOUT ===================== -->
 
 <p align="center">
-🏀 Creator of <b>HoopStats</b> &nbsp; • &nbsp;
-💎 Built Jewelry Management System &nbsp; • &nbsp;
-🎨 UI/UX Focused &nbsp; • &nbsp;
-🎮 Minecraft Texture Pack Seller
+🟩 Game Developer &nbsp; • &nbsp;
+🏀 Creator of HoopStats &nbsp; • &nbsp;
+🎮 Minecraft Texture Pack Creator &nbsp; • &nbsp;
+🚀 Building Modern Apps & Games
 </p>
 
 ---
 
 <!-- ===================== TECH STACK ===================== -->
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">🧱 Tech Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,figma,python,firebase" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,figma,python,firebase&theme=dark" />
 </p>
 
 ---
 
 <!-- ===================== STATS ===================== -->
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 Player Stats</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samarsubhash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samarsubhash&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
   
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=samarsubhash&theme=tokyonight&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=samarsubhash&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
 
 <!-- ===================== CONNECT ===================== -->
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">🌍 Join My World</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/">
@@ -62,5 +62,5 @@
 <!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:243B55,100:141E30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2E7D32,100:134E13" />
 </p>
