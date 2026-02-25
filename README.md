@@ -4,10 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Samar%20Subhash&fontAlign=50&fontAlignY=35&color=0:0f3d0f,100:2E7D32&fontColor=9AFF00&animation=twinkling&fontSize=45" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2800&pause=900&color=55FF55&center=true&vCenter=true&width=850&lines=Game+Developer+🎮;Creator+of+HoopStats+🏀;Minecraft+Texture+Pack+Creator+🧱;UI%2FUX+Designer;Building+Digital+Worlds+🌍" />
-</p>
-
 ---
 
 <p align="center">
