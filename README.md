@@ -4,10 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Samar%20Subhash&fontAlign=50&fontAlignY=40&color=0:0f2027,100:2ecc71&fontColor=00FF88&animation=twinkling&fontSize=48" />
 </p>
 
-<!-- ===================== MINECRAFT TYPING ===================== -->
+<!-- ===================== WORKING TYPING ANIMATION ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=App+Developer;Game+Developer;UI%2FUX+Designer;Freelancer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=750&lines=App+Developer;Game+Developer;UI%2FUX+Designer;Freelancer" />
 </p>
 
 ---
