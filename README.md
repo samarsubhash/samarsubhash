@@ -4,26 +4,25 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Samar%20Subhash&fontAlign=50&fontAlignY=40&color=0:0f2027,100:2ecc71&fontColor=00FF88&animation=twinkling&fontSize=48" />
 </p>
 
-<!-- ===================== MINECRAFT BLOCK TEXT ANIMATION ===================== -->
+<!-- ===================== MINECRAFT TYPING ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=900&lines=App+Developer+📱;Game+Developer+🎮;UI%2FUX+Designer+🎨;Freelancer+💼" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=App+Developer;Game+Developer;UI%2FUX+Designer;Freelancer" />
 </p>
 
 ---
 
-<!-- ===================== DESCRIPTION ===================== -->
-
 <p align="center">
-🟩 <b>Game Developer</b> &nbsp; • &nbsp;
-🏀 Creator of <b>HoopStats</b> &nbsp; • &nbsp;
-🎮 Minecraft Texture Pack Creator &nbsp; • &nbsp;
-🚀 Crafting Digital Worlds
+🟩 <b>App Dev</b> &nbsp; • &nbsp;
+🎨 <b>UI/UX</b> &nbsp; • &nbsp;
+🎮 <b>Game Dev</b> &nbsp; • &nbsp;
+🧱 <b>Minecraft Texture Pack Creator</b> &nbsp; • &nbsp;
+🏀 <b>Creator of HoopStats</b>
 </p>
 
 ---
 
-<!-- ===================== TECH ICONS ===================== -->
+<!-- ===================== TECH STACK ===================== -->
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,figma,python,firebase&theme=dark" />
@@ -31,10 +30,19 @@
 
 ---
 
-<!-- ===================== SNAKE ===================== -->
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<!-- ===================== STATS + STREAK ===================== -->
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samarsubhash&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00FF88&icon_color=00FF88&text_color=ffffff" />
+  <img height="165" src="https://streak-stats.demolab.com?user=samarsubhash&theme=dark&hide_border=true&background=00000000&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" />
 </p>
 
 ---
