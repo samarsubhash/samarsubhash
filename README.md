@@ -14,21 +14,20 @@
 
 ---
 
-<!-- ===================== TECH STACK + CHARIZARD ===================== -->
+<!-- ===================== STACK ===================== -->
 
-<h2 align="center">Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,figma,python,firebase&theme=dark" />
-      </td>
-      <td align="center">
-        <img src="https://media.tenor.com/9vRAkM4t8r0AAAAC/charizard-flame.gif" width="170"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,figma,python,firebase,go,mysql&theme=dark" />
+</p>
+
+---
+
+<!-- ===================== CHARIZARD ===================== -->
+
+<p align="center">
+  <img src="https://media.tenor.com/Iv6k4V8NqFQAAAAC/pokemon-charizard.gif" width="220"/>
 </p>
 
 ---
@@ -41,11 +40,13 @@
 
 ---
 
-<!-- ===================== STATS + STREAK ===================== -->
+<!-- ===================== STATS ===================== -->
+
+<h2 align="center">Stats</h2>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=samarsubhash&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00FF88&icon_color=00FF88&text_color=ffffff" />
-  <img height="150" src="https://streak-stats.demolab.com?user=samarsubhash&theme=dark&hide_border=true&background=00000000&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=samarsubhash&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00FF88&icon_color=00FF88&text_color=ffffff" />
+  <img height="160" src="https://streak-stats.demolab.com?user=samarsubhash&theme=dark&hide_border=true&background=00000000&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" />
 </p>
 
 <p align="center">
