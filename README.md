@@ -14,9 +14,7 @@
 
 ---
 
-<!-- ===================== STACK ===================== -->
-
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">⚔️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,figma,python,firebase,go,mysql&theme=dark" />
@@ -27,12 +25,10 @@
 <!-- ===================== CHARIZARD ===================== -->
 
 <p align="center">
-  <img src="https://media.tenor.com/Iv6k4V8NqFQAAAAC/pokemon-charizard.gif" width="220"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="220"/>
 </p>
 
 ---
-
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -40,24 +36,16 @@
 
 ---
 
-<!-- ===================== STATS ===================== -->
-
-<h2 align="center">Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=samarsubhash&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00FF88&icon_color=00FF88&text_color=ffffff" />
-  <img height="160" src="https://streak-stats.demolab.com?user=samarsubhash&theme=dark&hide_border=true&background=00000000&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarsubhash&bg_color=0d1117&color=00ff88&line=00ff88&point=00ffaa&area=true&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=samarsubhash&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=samarsubhash&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
-
-<h2 align="center">Connect With Me</h2>
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samar-subhash-01775924b/">
@@ -70,8 +58,6 @@
 </p>
 
 ---
-
-<!-- ===================== FOOTER ===================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:2ecc71,100:0f2027"/>
