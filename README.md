@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-🟩 <b>App Dev</b> • 🎨 <b>UI/UX</b> • 🎮 <b>Game Dev</b> • 🧱 <b>Minecraft Texture Pack Creator</b> • 🏀 <b>Creator of HoopStats</b>
+ <b>App Dev</b> •  <b>UI/UX</b> •  <b>Game Dev</b> •  <b>Minecraft Texture Pack Creator</b> •  <b>Creator of HoopStats</b>
 </p>
 
 ---
