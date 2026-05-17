@@ -22,7 +22,6 @@
 
 ---
 
-<!-- ===================== CHARIZARD ===================== -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="220"/>
