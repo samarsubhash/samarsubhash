@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="center">⚔️ Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,figma,python,django,firebase,go,mysql&theme=dark" />
@@ -35,7 +35,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center"> GitHub Stats</h2>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=samarsubhash&show_icons=true&theme=chartreuse-dark&hide_border=true" />
@@ -44,7 +44,7 @@
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center"> Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samar-subhash-01775924b/">
