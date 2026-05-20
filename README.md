@@ -12,7 +12,7 @@
  <b>App Dev</b> •  <b>UI/UX</b> •  <b>Game Dev</b> •  <b>Minecraft Texture Pack Creator</b> •  <b>Creator of HoopStats</b>
 </p>
 
----
+
 
 <h2 align="center"> Tech Stack</h2>
 
@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,figma,python,django,firebase,go,mysql&theme=dark" />
 </p>
 
----
+
 
 
 <p align="center">
