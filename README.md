@@ -1,4 +1,3 @@
-<!-- ===================== MINECRAFT HEADER ===================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Samar%20Subhash&fontAlign=50&fontAlignY=38&color=0:0f2027,100:2ecc71&fontColor=00FF88&animation=twinkling&fontSize=34&font=Press%20Start%202P" />
