@@ -16,7 +16,7 @@
 <h2 align="center"> Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,figma,python,django,firebase,go,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c++,react,flutter,androidstudio,figma,python,django,firebase,go,mysql&theme=dark" />
 </p>
 
 
